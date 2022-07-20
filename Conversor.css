@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+h1{
+    color: beige;
+    text-align: center;
+}
+h2{
+    color: beige;
+    text-align: center;
+    
+}
+div#h2nd{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 190px;
+    left: 35%;
+}
+div#res{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 250px;
+    color: #000;
+    background-color: aquamarine;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 50px;
+    left: 35%;
+}
+div#Input{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    left: 35%;
+}
+div#button{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 350px;
+    left: 35%;
+}
+button{
+    width: 100px;
+    height: 30px;
+}
+input{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+}
